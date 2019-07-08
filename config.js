@@ -3,7 +3,7 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
+  title: 'Blog by Jack Lundy',
   subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
@@ -24,14 +24,14 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Jack Lundy',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'I am a Software Developer at AtomBank. Who likes to build interesting things and all things code!',
     contacts: {
-      email: '#',
+      email: 'jacklundy@hotmail.co.uk',
       telegram: '#',
       twitter: '#',
-      github: '#',
+      github: 'https://github.com/jacklundy96',
       rss: '#',
       vkontakte: '#'
     }
