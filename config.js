@@ -24,16 +24,12 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Jack Lundy',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'I am a Midleware developer and AtomBank. I like building cool stuff and all things code! ',
     contacts: {
-      email: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
-      rss: '#',
-      vkontakte: '#'
+      email: 'jacklundy@hotmail.co.uk',
+      github: 'https://github.com/jacklundy96'
     }
   }
 };
