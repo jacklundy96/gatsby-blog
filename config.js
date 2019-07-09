@@ -29,11 +29,7 @@ module.exports = {
     bio: 'I am a Software Developer at AtomBank. Who likes to build interesting things and all things code!',
     contacts: {
       email: '#',
-      telegram: '#',
-      twitter: '#',
-      github: 'jacklundy96',
-      rss: '#',
-      vkontakte: '#'
+      github: 'jacklundy96'
     }
   }
 };
